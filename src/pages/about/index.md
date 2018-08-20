@@ -4,53 +4,53 @@ title: About our values1
 ---
 <table border="1">
 
-\    <thead>
+ <thead>
 
-\    <tr>
+ <tr>
 
-\    <th>No.</th>
+  <th>No.</th>
 
-\    <th>Name</th>
+  <th>Name</th>
 
-\    <th>Email</th>
+  <th>Email</th>
 
-\    </tr>
+  </tr>
 
-\    </thead>
+  </thead>
 
-\    <tbody>
+  <tbody>
 
-\    <tr>
+  <tr>
 
-\    <td>1</td>
+  <td>1</td>
 
-\    <td>John Carter</td>
+  <td>John Carter</td>
 
-\    <td>johncarter@mail.com</td>
+  <td>johncarter@mail.com</td>
 
-\    </tr>
+  </tr>
 
-\    <tr>
+  <tr>
 
-\    <td>2</td>
+  <td>2</td>
 
-\    <td>Peter Parker</td>
+  <td>Peter Parker</td>
 
-\    <td>peterparker@mail.com</td>
+  <td>peterparker@mail.com</td>
 
-\    </tr>
+  </tr>
 
-\    <tr>
+  <tr>
 
-\    <td>3</td>
+  <td>3</td>
 
-\    <td>John Rambo</td>
+  <td>John Rambo</td>
 
-\    <td>johnrambo@mail.com</td>
+   <td>johnrambo@mail.com</td>
 
-\    </tr>
+  </tr>
 
-\    </tbody>
+  </tbody>
 
 </table>
 
